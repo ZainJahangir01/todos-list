@@ -17,9 +17,9 @@ export default function header(props) {
         <li className="nav-item">
           <a className="nav-a active" aria-current="page" href="/">Home</a>
         </li>
-        <li className="nav-item">
+        {/* <li className="nav-item">
           <a className="nav-a" href="/about">About</a>
-        </li>
+        </li> */}
         {/* <li className="nav-item dropdown">
           <a className="nav-a dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Dropdown
